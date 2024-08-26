@@ -98,12 +98,12 @@ let questions = [
   {
     numb: 9,
     question: "How do you create a CSS class?",
-    answer: ".classname { ... }",
+    answer: ".classname",
     options: [
-      ".classname { ... }",
-      "#classname { ... }",
-      "classname { ... }",
-      "class classname { ... }"
+      ".classname ",
+      "#classname",
+      "classname",
+      "class classname "
     ]
   },
 
@@ -254,12 +254,12 @@ let questions = [
   {
     numb: 22,
     question: "Which HTML element is used to define a hyperlink?",
-    answer: "<a>",
+    answer: "a",
     options: [
-      "<href>",
-      "<a>",
-      "<hef>",
-      "<link>"
+      "href",
+      "a",
+      "hef",
+      "link"
     ]
   },
 
@@ -278,12 +278,12 @@ let questions = [
   {
     numb: 24,
     question: "Which tag is used to include JavaScript in an HTML document?",
-    answer: "<script>",
+    answer: "script",
     options: [
-      "<js>",
-      "<script>",
-      "<javascript>",
-      "<code>"
+      "js",
+      "script",
+      "javascript",
+      "code"
     ]
   },
 
