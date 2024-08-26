@@ -86,24 +86,24 @@ let questions = [
   {
     numb:8,
     question: "Which HTML element is used to define the title of a document?",
-    answer: "<title>",
+    answer: "title",
     options: [
-      "<meta>",
-      "<title>",
-      "<header>",
-      "<head>"
+      "meta",
+      "title",
+      "header",
+      "head"
     ]
   },
 
   {
     numb: 9,
-    question: "How do you insert a comment in HTML?",
-    answer: "<!-- comment -->",
+    question: "How do you create a CSS class?",
+    answer: ".classname { ... }",
     options: [
-      "// comment",
-      "/* comment */",
-      "# comment",
-      "<!-- comment -->"
+      ".classname { ... }",
+      "#classname { ... }",
+      "classname { ... }",
+      "class classname { ... }"
     ]
   },
 
