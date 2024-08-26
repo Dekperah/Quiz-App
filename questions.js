@@ -169,7 +169,7 @@ let questions = [
 
   {
     numb: 15,
-    question: "How do you select an element with the ID "header" using JavaScript?",
+    question: "How do you select an element with the ID header using JavaScript?",
     answer: "document.getElementById('header')",
     options: [
       "document.querySelector('#header')",
@@ -313,7 +313,7 @@ let questions = [
 
   {
     numb: 27,
-    question: "How do you apply a style to an HTML element with an ID of "header"?",
+    question: "How do you apply a style to an HTML element with an ID of header?",
     answer: "#header { ... }",
     options: [
       ".header { ... }",
