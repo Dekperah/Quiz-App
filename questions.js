@@ -62,12 +62,12 @@ let questions = [
   {
     numb: 6,
     question: "Which tag is used to define a section in a document?",
-    answer: "<div>",
+    answer: "div",
     options: [
-      "<section>",
-      "<div>",
-      "<article>",
-      "<header>"
+      "section",
+      "div",
+      "article",
+      "header"
     ]
   },
 
