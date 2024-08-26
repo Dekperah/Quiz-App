@@ -13,16 +13,16 @@ let questions = [
 
   {
     numb: 2,
-    question: "How do you write a comment in JavaScript?",
-    answer: "// This is a comment",
+    question: "What does CSS stand for?",
+    answer: "Cascading Style Sheet",
     options: [
-      "/* This is a comment */",
-      "// This is a comment",
-      "<!-- This is a comment -->",
-      "** This is a comment **"
+      "Common Style Sheet",
+      "Colorful Style Sheet",
+      "Combined Style Sheet",
+      "Cascading Style Sheet"
     ]
   },
-
+  
   {
     numb: 3,
     question: "What is the output of 2 + '2' in JavaScript?",
