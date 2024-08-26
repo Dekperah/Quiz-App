@@ -133,13 +133,14 @@ let questions = [
 
   {
     numb: 12,
-    question: "How do you make a list appear horizontal instead of vertical?",
-    answer: "Set display: inline; on <li> elements",
+     numb: 3,
+    question: "What is the output of 2 + '2' in JavaScript?",
+    answer: "22",
     options: [
-      "Set display: block; on <li> elements",
-      "Set float: left; on <li> elements",
-      "Set display: inline; on <li> elements",
-      "Both A and C"
+      "4",
+      "22",
+      "undefined",
+      "error"
     ]
   },
 
